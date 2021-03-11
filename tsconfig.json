@@ -4,6 +4,7 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "alwaysStrict": true,
+    "strictNullChecks": true,
     "noImplicitAny": false,
     "noImplicitReturns": true,
     "experimentalDecorators": true,
